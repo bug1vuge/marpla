@@ -599,6 +599,7 @@ body{
 }
 
 .sales__graph-checkbox-icon{
+    display: block;
     position: relative;
 
     width: 24px;
@@ -828,6 +829,7 @@ body{
 }
 
 .requests__checkbox-icon{
+    display: block;
     position: relative;
     width: 24px;
     height: 24px;
@@ -1438,6 +1440,7 @@ body{
 }
 
 .statistics__table-checkbox-icon{
+    display: block;
     position: relative;
     width: 24px;
     height: 24px;
